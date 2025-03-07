@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Remember That Song</title>
+</head>
+<body>
+  <h2>Remember that song from the movie we saw at the cinema?</h2>
+  <p>The lyrics resonate with how I feel about us. Give it a listen!</p>
+  <p>
+    <a href="song.html" target="_blank">click me for something amazing</a>
+  </p>
+</body>
+</html>

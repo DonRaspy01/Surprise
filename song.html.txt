@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Enjoy the Amazing Song!</title>
+</head>
+<body>
+  <h1>Enjoy the Amazing Song!</h1>
+  <p>Select your preferred platform to listen:</p>
+  <ul>
+    <li>
+      <a href="https://music.apple.com/us/album/now-and-always-stripped-down/1678129995?i=1678130360" target="_blank">
+        Listen on Apple Music
+      </a>
+    </li>
+    <li>
+      <a href="https://open.spotify.com/track/3XOLsSaZHSckItKsDTAdZ3?si=lKtktay4T5Wtly4RQC16mw&context=spotify%3Asearch%3Akotre" target="_blank">
+        Listen on Spotify
+      </a>
+    </li>
+  </ul>
+</body>
+</html>
